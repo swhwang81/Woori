@@ -3,6 +3,8 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 
+st.write("This is Testing...")
+
 fig, ax = plt.subplots()
 
 fruits = ['apple', 'blueberry', 'cherry', 'orange']
